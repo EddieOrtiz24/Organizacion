@@ -38,6 +38,7 @@ const estiloTitulo = { borderColor: colorPrimario }
             colorPrimario={colorPrimario}
             eliminarColaborador={eliminarColaborador}
             like={like}
+            
             />)
             
         }
